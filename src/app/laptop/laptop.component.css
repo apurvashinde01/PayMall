@@ -1,0 +1,32 @@
+#banner {
+    background-image: url('https://assetscdn1.paytm.com/images/catalog/view_item/472019/1571208965937.jpg?imwidth=1600&impolicy=hq');
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 300px;
+}
+
+.card {
+    border: none;
+    height: 30px;
+}
+
+.card img {
+    border: lightgray;
+    border-radius: 50%;
+    min-height: 100px;
+    min-width: 50px;
+}
+
+.card a {
+    text-decoration: none;
+}
+
+.card a :hover {
+    color: salmon;
+}
+
+#chota-jumbo {
+    background-color: white;
+    height: 200px;
+}
